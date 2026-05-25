@@ -141,7 +141,8 @@ npm run build
 _Add screenshots here_
 
 ```md
-![Home Page](./assets/screenshots/home.png)
+![Home Page](<img width="1470" height="956" alt="Screenshot 2026-05-25 at 5 42 32 PM" src="https://github.com/user-attachments/assets/2d60eda9-ca9c-46d9-a264-e71e1ee368b7" />
+)
 ```
 
 ---
