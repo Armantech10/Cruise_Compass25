@@ -138,8 +138,6 @@ npm run build
 
 ## Home Page
 
-_Add screenshots here_
-
 ```md
 ![Home Page](file:///Users/arman/Desktop/Screenshot%202026-05-25%20at%205.42.32%E2%80%AFPM.png)
 ```
