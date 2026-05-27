@@ -20,7 +20,7 @@
 
 # 📌 Overview
 
-Cruise Compass is a modern travel web application designed to help users explore destinations, discover hotels, and plan trips with ease.
+Cruise Compass is a modern travel web application designed to help users explore destinations,discover hotels, and plan trips with ease.
 
 The platform provides a clean and responsive user experience focused on travel discovery and convenience. Whether you're searching for your next vacation destination or planning your travel journey, Cruise Compass acts as your digital travel guide.
 
@@ -127,10 +127,10 @@ npm run build
 
 ## Prompt Engineers Team
 
-- **SK ARMAN** — Team Lead
-- **Justin Gomes**
-- **Diptish De**
-- **Team Member 4**
+- **SK ARMAN** 
+- **Nayangshu Garai**
+- **Debangshu saha**
+- **Anish Chattarjee**
 
 ---
 
